@@ -1,4 +1,4 @@
-//Alphabet triangle
+//Print Alphabet triangle
 #include<stdio.h>
 int main(){
     int n;
