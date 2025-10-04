@@ -1,4 +1,4 @@
-//Rhombus
+//Print Rhombus pattern
 #include<stdio.h>
 int main(){
     int n;
