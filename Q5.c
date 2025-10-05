@@ -1,4 +1,4 @@
-// Number Pyramid
+//Print a  Number Pyramid
 #include<stdio.h>
 int main(){
     int n ,nst=1;
