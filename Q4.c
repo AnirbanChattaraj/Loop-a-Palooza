@@ -1,4 +1,4 @@
-// star Pyramid
+// Print a star Pyramid
 #include<stdio.h>
 int main(){
     int n ,nst=1;
