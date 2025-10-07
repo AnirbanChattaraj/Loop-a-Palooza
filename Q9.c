@@ -1,4 +1,4 @@
-//Alphabet palindrome pyramid
+//Print Alphabet palindrome pyramid
 #include<stdio.h>
 int main(){
     int n;
