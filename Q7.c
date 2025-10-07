@@ -1,4 +1,4 @@
-//Continous Alphabet Pyramid
+//Print Continous Alphabet Pyramid
 #include<stdio.h>
 int main(){
     int n ,noa=1;
